@@ -9,3 +9,15 @@
 [6]	Boccegnone G, Chianese A, Picariello A. Small target detection using wavelets[C]. Proceedings. Fourteenth International Conference on Pattern Recognition, Brisbane, QLD, Australia, 1998:1776-1778.  
 [7]	Yang L, Yang J, Yang K. Adaptive detection for infrared small target under sea-sky complex background[J]. Electronics Letters, 2004, 40(17):1083-1085.  
 [8]	Sun Y, Tian J, Liu J. Background suppression based-on wavelet transformation to detect infrared target[C]. 2005 International Conference on Machine Learning and Cybernetics, Guangzhou, China, 2005:4611-4615.  
+
+
+ **Saliency-based methods**   
+[1]	Shao X, Fan H, Lu G, et al. An improved infrared dim and small target detection algorithm based on the contrast mechanism of human visual system[J]. Infrared Physics & Technology, 2012, 55(5): 403-408.  
+[2]	Wang X, Lv G, Xu L. Infrared dim target detection based on visual attention[J]. Infrared Physics & Technology, 2012, 55(6): 513-521  
+[3]	Han J, Ma Y, Huang J, et al. An infrared small target detecting algorithm based on human visual system[J]. IEEE Geoscience and Remote Sensing Letters,2016, 13(3):452-456.  
+[4]	Chen C, Li H, Wei Y, et al. A local contrast method for small infrared target detection[J]. IEEE Transactions on Geoscience and Remote Sensing, 2014, 52(1): 574-581.  
+[5]	Qin Y, Li B. Effective infrared small target detection utilizing a novel local contrast method[J]. IEEE Geoscience and Remote Sensing Letters, 2016, 13(12):1890-1894.  
+[6]	Han J, Liang K, Zhou B, et al. Infrared small target detection utilizing the multiscale relative local contrast measure[J]. IEEE Geoscience and Remote Sensing Letters, 2018, 15(4):612-616.  
+[7]	Nie J, Qu S, Wei Y, et al. An infrared small target detection method based on multiscale local homogeneity measure[J]. Infrared Physics & Technology, 2018, 90: 186-194.  
+
+
