@@ -15,7 +15,7 @@
 [8]	Sun Y, Tian J, Liu J. Background suppression based-on wavelet transformation to detect infrared target[C]. 2005 International Conference on Machine Learning and Cybernetics, Guangzhou, China, 2005:4611-4615.  
 
 
- >**[Saliency-based methods]()** 
+ >**[Saliency/Local information-based methods]()** 
 
  [1]	Kim, S.; Yang, Y.; Lee, J.; Park, Y. Small target detection utilizing robust methods of the human visual system for IRST. J. Infrared Millim. Terahertz Waves 2009, 30, 994–1011.  
 [2]	Wang, X.; Lv, G.; Xu, L. Infrared dim target detection based on visual attention. Infrared Phys. Technol. 2012, 55,513–521.  
