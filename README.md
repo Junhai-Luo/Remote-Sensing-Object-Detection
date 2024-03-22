@@ -1,6 +1,6 @@
 **Some algorithms or methods about infrared small target detection are collected and summarized.**
 
-  **>[Filter-based methods]()**  
+  **>[Filter-based methods / Background suppression methods ]() **  
  
 [1]	Soni T, Zeidler J, Ku W. Performance evaluation of 2-d adaptive prediction filters for detection of small objects in image data[J]. IEEE Transactions on Image Processing, 1993, 2(3):327-340.  
 [2]	Rivest J, Francois R. Detection of dim targets in digital infrared imagery by morphological image processing[J]. Optical Engineering, 1996, 35(7): 1886-1893.  
