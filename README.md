@@ -2,8 +2,8 @@
 
   ## **[Filter/Background suppression methods]()**  
 
-  > ### Spatial domain filter-based methods 
- >  ### Transform domain filter-based methods
+ >#### Spatial domain filter-based methods 
+ > #### Transform domain filter-based methods
  
 [1]	Soni T, Zeidler J, Ku W. Performance evaluation of 2-d adaptive prediction filters for detection of small objects in image data[J]. IEEE Transactions on Image Processing, 1993, 2(3):327-340.  
 [2]	Rivest J, Francois R. Detection of dim targets in digital infrared imagery by morphological image processing[J]. Optical Engineering, 1996, 35(7): 1886-1893.  
@@ -15,7 +15,13 @@
 [8]	Sun Y, Tian J, Liu J. Background suppression based-on wavelet transformation to detect infrared target[C]. 2005 International Conference on Machine Learning and Cybernetics, Guangzhou, China, 2005:4611-4615.  
 
 
- >**[Saliency/Local information-based methods]()** 
+ >**[Saliency/Local information-based methods]()**
+
+ >#### Local intensity-based 
+ >#### Local gradient-based
+>#### Local contrast-based
+>#### Local entropy-based
+
 
  [1]	Kim, S.; Yang, Y.; Lee, J.; Park, Y. Small target detection utilizing robust methods of the human visual system for IRST. J. Infrared Millim. Terahertz Waves 2009, 30, 994–1011.  
 [2]	Wang, X.; Lv, G.; Xu, L. Infrared dim target detection based on visual attention. Infrared Phys. Technol. 2012, 55,513–521.  
