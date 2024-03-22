@@ -13,14 +13,18 @@
 
 
  >**[Saliency-based methods]()** 
- 
-[1]	Shao X, Fan H, Lu G, et al. An improved infrared dim and small target detection algorithm based on the contrast mechanism of human visual system[J]. Infrared Physics & Technology, 2012, 55(5): 403-408.  
-[2]	Wang X, Lv G, Xu L. Infrared dim target detection based on visual attention[J]. Infrared Physics & Technology, 2012, 55(6): 513-521  
-[3]	Han J, Ma Y, Huang J, et al. An infrared small target detecting algorithm based on human visual system[J]. IEEE Geoscience and Remote Sensing Letters,2016, 13(3):452-456.  
-[4]	Chen C, Li H, Wei Y, et al. A local contrast method for small infrared target detection[J]. IEEE Transactions on Geoscience and Remote Sensing, 2014, 52(1): 574-581.  
-[5]	Qin Y, Li B. Effective infrared small target detection utilizing a novel local contrast method[J]. IEEE Geoscience and Remote Sensing Letters, 2016, 13(12):1890-1894.  
-[6]	Han J, Liang K, Zhou B, et al. Infrared small target detection utilizing the multiscale relative local contrast measure[J]. IEEE Geoscience and Remote Sensing Letters, 2018, 15(4):612-616.  
-[7]	Nie J, Qu S, Wei Y, et al. An infrared small target detection method based on multiscale local homogeneity measure[J]. Infrared Physics & Technology, 2018, 90: 186-194.  
+
+ [1]	Kim, S.; Yang, Y.; Lee, J.; Park, Y. Small target detection utilizing robust methods of the human visual system for IRST. J. Infrared Millim. Terahertz Waves 2009, 30, 994–1011.  
+[2]	Wang, X.; Lv, G.; Xu, L. Infrared dim target detection based on visual attention. Infrared Phys. Technol. 2012, 55,513–521.  
+[3]	Shao X, Fan H, Lu G, et al. An improved infrared dim and small target detection algorithm based on the contrast mechanism of human visual system[J]. Infrared Physics & Technology, 2012, 55(5): 403-408  
+[4]	Wang X, Lv G, Xu L. Infrared dim target detection based on visual attention[J]. Infrared Physics & Technology, 2012, 55(6): 513-521  
+[5]	Chen, C.; Li, H.; Wei, Y.; Tian, X.; Yuan, Y. A local contrast method for small infrared target detection. IEEE Trans. Geosci. Remote Sens. 2014, 52, 574–581.  
+[6]	Han, J.; Ma, Y.; Zhou, B.; Fan, F.; Kun, L.; Yu, F. A robust infrared small target detection algorithm based on human visual system. IEEE Geosci. Remote Sens. Lett. 2014, 11, 2168–2172.  
+[7]	Qin, Y.; Li, B. Effective infrared small target detection utilizing a novel local contrast method. IEEE Geosci. Remote Sens. Lett. 2016, 13, 1890–1894.   
+[8]	Han J, Ma Y, Huang J, et al. An infrared small target detecting algorithm based on human visual system[J]. IEEE Geoscience and Remote Sensing Letters,2016, 13(3):452-456.   
+[9]	Han J, Liang K, Zhou B, et al. Infrared small target detection utilizing the multiscale relative local contrast measure[J]. IEEE Geoscience and Remote Sensing Letters, 2018, 15(4):612-616.   
+[10]	Nie J, Qu S, Wei Y, et al. An infrared small target detection method based on multiscale local homogeneity measure[J]. Infrared Physics & Technology, 2018, 90: 186-194.   
+
 
 >**[Dictionary-based methods]()**
 
