@@ -1,4 +1,4 @@
-*** Some algorithms or methods about infrared small target detection are collected and summarized. ***
+**Some algorithms or methods about infrared small target detection are collected and summarized.**
 
  >**[Filter-based methods]()**  
  
