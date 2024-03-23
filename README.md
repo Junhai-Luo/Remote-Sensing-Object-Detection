@@ -2,7 +2,8 @@
 
   ## **[Filter/Background suppression methods]()**  
 
-  >[**Spatial domain filter**]()  
+  >[**Spatial domain filter**]()
+>
   >[**Transform domain filter**]()
  
 [1]	Soni T, Zeidler J, Ku W. Performance evaluation of 2-d adaptive prediction filters for detection of small objects in image data[J]. IEEE Transactions on Image Processing, 1993, 2(3):327-340.  
@@ -17,10 +18,13 @@
 
  >**[Saliency/Local information-based methods]()**
 
- >#### Local intensity
- >#### Local gradient
->#### Local contrast
->#### Local entropy
+>[**Local intensity**]()
+>
+>[**Local gradient**]()
+>
+>[**Local contrast**]()
+>
+>[**Local entropy**]()  
 
 
  [1]	Kim, S.; Yang, Y.; Lee, J.; Park, Y. Small target detection utilizing robust methods of the human visual system for IRST. J. Infrared Millim. Terahertz Waves 2009, 30, 994–1011.  
