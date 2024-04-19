@@ -86,7 +86,13 @@
 [9] A. Wang, W. Li, Z. Huang, X. Wu, F. Jie and R. Tao, "Prior-Guided Data Augmentation for Infrared Small Target Detection," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 15, pp. 10027-10040, 2022, doi: 10.1109/JSTARS.2022.3222758.   
 [10] K. Wang, S. Du, C. Liu and Z. Cao, "Interior Attention-Aware Network for Infrared Small Target Detection," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-13, 2022, Art no. 5002013, doi: 10.1109/TGRS.2022.3163410.    
 [11] M. Zhang, R. Zhang, Y. Yang, H. Bai, J. Zhang and J. Guo, "ISNet: Shape Matters for Infrared Small Target Detection," 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), New Orleans, LA, USA, 2022, pp. 867-876, doi: 10.1109/CVPR52688.2022.00095.  
-[12] Wu X, Hong D, Chanussot J. UIU-Net: U-Net in U-Net for Infrared Small Object Detection. IEEE Trans Image Process. 2022 Dec 15;PP. doi: 10.1109/TIP.2022.3228497. Epub ahead of print. PMID: 37015404.  
+[12] Wu X, Hong D, Chanussot J. UIU-Net: U-Net in U-Net for Infrared Small Object Detection. IEEE Trans Image Process. 2022 Dec 15;PP. doi: 10.1109/TIP.2022.3228497. Epub ahead of print. PMID: 37015404. 
+[13] T. Wu et al., "MTU-Net: Multilevel TransUNet for Space-Based Infrared Tiny Ship Detection," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-15, 2023, Art no. 5601015, doi: 10.1109/TGRS.2023.3235002.   
+[14] Xinyi Ying, Li Liu, Yingqian Wang, Ruojing Li, Nuo Chen, Zaiping Lin, Weidong Sheng, Shilin Zhou; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, pp. 15528-15538.  
+[15] H. Sun, J. Bai, F. Yang and X. Bai, "Receptive-Field and Direction Induced Attention Network for Infrared Dim Small Target Detection With a Large-Scale Dataset IRDST," in IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-13, 2023, Art no. 5000513, doi: 10.1109/TGRS.2023.3235150.   
+[16] Boyang Li, Yingqian Wang, Longguang Wang, Fei Zhang, Ting Liu, Zaiping Lin, Wei An, Yulan Guo; Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2023, pp. 1009-1019.
+[17] T. Zhang, L. Li, S. Cao, T. Pu and Z. Peng, "Attention-Guided Pyramid Context Networks for Detecting Infrared Small Target Under Complex Background," in IEEE Transactions on Aerospace and Electronic Systems, vol. 59, no. 4, pp. 4250-4261, Aug. 2023, doi: 10.1109/TAES.2023.3238703.  
+
 
 
 
