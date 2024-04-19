@@ -88,6 +88,8 @@
 **[4] IRSTD-1K** [[download]](https://github.com/RuiZhang97/ISNet) [[paper]](https://ieeexplore.ieee.org/document/9880295)  
 **[5] NUDT-SIRST-Sea** [[download]](https://github.com/TianhaoWu16/Multi-level-TransUNet-for-Space-based-Infrared-Tiny-ship-Detection) [[paper]](https://ieeexplore.ieee.org/document/10011449)  
 **[6] IRDST** [[download]](https://github.com/sun11999/RDIAN) [[paper]](https://ieeexplore.ieee.org/document/10011452)  
+**[7] Anti-UAV** [[download]](https://modelscope.cn/models/iic/3rd_Anti-UAV_CVPR23/summary) [[paper]](https://arxiv.org/pdf/2101.08466.pdf)  
+
 
 
 
