@@ -76,18 +76,13 @@
 
 ## **[Deep Learning-based Methods]()**  
 [1] H. Wang, L. Zhou and L. Wang, "Miss Detection vs. False Alarm: Adversarial Learning for Small Object Segmentation in Infrared Images," 2019 IEEE/CVF International Conference on Computer Vision (ICCV), Seoul, Korea (South), 2019, pp. 8508-8517, doi: 10.1109/ICCV.2019.00860.  
-
 [2] Y. Dai, Y. Wu, F. Zhou and K. Barnard, "Asymmetric Contextual Modulation for Infrared Small Target Detection," 2021 IEEE Winter Conference on Applications of Computer Vision (WACV), Waikoloa, HI, USA, 2021, pp. 949-958, doi: 10.1109/WACV48630.2021.00099.   
-
 [3] Zhao, Mingxin et al. “TBC-Net: A real-time detector for infrared small target detection using semantic constraint.” ArXiv abs/2001.05852 (2019): n. pag.   
-
 [4] Y. Dai, Y. Wu, F. Zhou and K. Barnard, "Attentional Local Contrast Networks for Infrared Small Target Detection," in IEEE Transactions on Geoscience and Remote Sensing, vol. 59, no. 11, pp. 9813-9824, Nov. 2021, doi: 10.1109/TGRS.2020.3044958.   
-
 [5] B. Li et al., "Dense Nested Attention Network for Infrared Small Target Detection," in IEEE Transactions on Image Processing, vol. 32, pp. 1745-1758, 2023, doi: 10.1109/TIP.2022.3199107.  
-
 [6] F. Liu, C. Gao, F. Chen, D. Meng, W. Zuo and X. Gao, "Infrared Small and Dim Target Detection With Transformer Under Complex Backgrounds," in IEEE Transactions on Image Processing, vol. 32, pp. 5921-5932, 2023, doi: 10.1109/TIP.2023.3326396.  
-
 [7] Tong, X.; Sun, B.; Wei, J.; Zuo, Z.; Su, S. EAAU-Net: Enhanced Asymmetric Attention U-Net for Infrared Small Target Detection. Remote Sens. 2021, 13, 3200.      
+[8] Chen G, Wang W, Tan S. IRSTFormer: A Hierarchical Vision Transformer for Infrared Small Target Detection. Remote Sensing. 2022; 14(14):3258.  [9] Lv, G.; Dong, L.; Liang, J.; Xu, W. Novel Asymmetric Pyramid Aggregation Network for Infrared Dim and Small Target Detection. Remote Sens. 2022, 14, 5643.    
 
 
 
