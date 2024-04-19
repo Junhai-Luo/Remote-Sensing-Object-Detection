@@ -6,14 +6,14 @@
 >
   >[**Transform domain filter**]()
  
-[1]	Soni T, Zeidler J, Ku W. Performance evaluation of 2-d adaptive prediction filters for detection of small objects in image data[J]. IEEE Transactions on Image Processing, 1993, 2(3):327-340.  
-[2]	Rivest J, Francois R. Detection of dim targets in digital infrared imagery by morphological image processing[J]. Optical Engineering, 1996, 35(7): 1886-1893.  
-[3]	Tomasi C, Manduchi R. Bilateral filtering for gray and color images[C]. Proceedings of Sixth IEEE International Conference and Computer Vision, Bombay, India,1998:839-846.  
-[4]	Deshpande S, Er M, Ronda V, et al. Max-mean and max-median filters for detection of small targets[J]. Proceedings of SPIE-The International Society for Optical Engineering, 1999, 3809:74-83.  
-[5]	Bai X, Zhou F. Analysis of new top-hat transformation and the application for infrared dim small target detection[J]. Pattern Recognition, 2010, 43(6):2145-2156.  
-[6]	Boccegnone G, Chianese A, Picariello A. Small target detection using wavelets[C]. Proceedings. Fourteenth International Conference on Pattern Recognition, Brisbane, QLD, Australia, 1998:1776-1778.  
-[7]	Yang L, Yang J, Yang K. Adaptive detection for infrared small target under sea-sky complex background[J]. Electronics Letters, 2004, 40(17):1083-1085.  
-[8]	Sun Y, Tian J, Liu J. Background suppression based-on wavelet transformation to detect infrared target[C]. 2005 International Conference on Machine Learning and Cybernetics, Guangzhou, China, 2005:4611-4615.  
+[1]	Soni T, Zeidler J, Ku W. Performance evaluation of 2-d adaptive prediction filters for detection of small objects in image data[J]. IEEE Transactions on Image Processing, 1993, 2(3):327-340.    
+[2]	Rivest J, Francois R. Detection of dim targets in digital infrared imagery by morphological image processing[J]. Optical Engineering, 1996, 35(7): 1886-1893.    
+[3]	Tomasi C, Manduchi R. Bilateral filtering for gray and color images[C]. Proceedings of Sixth IEEE International Conference and Computer Vision, Bombay, India,1998:839-846.    
+[4]	Deshpande S, Er M, Ronda V, et al. Max-mean and max-median filters for detection of small targets[J]. Proceedings of SPIE-The International Society for Optical Engineering, 1999, 3809:74-83.     
+[5]	Bai X, Zhou F. Analysis of new top-hat transformation and the application for infrared dim small target detection[J]. Pattern Recognition, 2010, 43(6):2145-2156.     
+[6]	Boccegnone G, Chianese A, Picariello A. Small target detection using wavelets[C]. Proceedings. Fourteenth International Conference on Pattern Recognition, Brisbane, QLD, Australia, 1998:1776-1778.     
+[7]	Yang L, Yang J, Yang K. Adaptive detection for infrared small target under sea-sky complex background[J]. Electronics Letters, 2004, 40(17):1083-1085.     
+[8]	Sun Y, Tian J, Liu J. Background suppression based-on wavelet transformation to detect infrared target[C]. 2005 International Conference on Machine Learning and Cybernetics, Guangzhou, China, 2005:4611-4615.     
 
 
  >**[Saliency/Local information-based methods]()**
@@ -75,13 +75,13 @@
 [19]	Yi H, Yang C, Qie R, et al. Spatial-temporal tensor ring norm regularization for infrared small target detection[J]. IEEE Geoscience and Remote Sensing Letters, 2023, 20:1-5.    
 
 ## **[Deep Learning-based Methods]()**  
-[1] H. Wang, L. Zhou and L. Wang, "Miss Detection vs. False Alarm: Adversarial Learning for Small Object Segmentation in Infrared Images," 2019 IEEE/CVF International Conference on Computer Vision (ICCV), Seoul, Korea (South), 2019, pp. 8508-8517, doi: 10.1109/ICCV.2019.00860.
-[2] Y. Dai, Y. Wu, F. Zhou and K. Barnard, "Asymmetric Contextual Modulation for Infrared Small Target Detection," 2021 IEEE Winter Conference on Applications of Computer Vision (WACV), Waikoloa, HI, USA, 2021, pp. 949-958, doi: 10.1109/WACV48630.2021.00099.
-[3] Zhao, Mingxin et al. “TBC-Net: A real-time detector for infrared small target detection using semantic constraint.” ArXiv abs/2001.05852 (2019): n. pag.
-[4] Y. Dai, Y. Wu, F. Zhou and K. Barnard, "Attentional Local Contrast Networks for Infrared Small Target Detection," in IEEE Transactions on Geoscience and Remote Sensing, vol. 59, no. 11, pp. 9813-9824, Nov. 2021, doi: 10.1109/TGRS.2020.3044958.
-[5] B. Li et al., "Dense Nested Attention Network for Infrared Small Target Detection," in IEEE Transactions on Image Processing, vol. 32, pp. 1745-1758, 2023, doi: 10.1109/TIP.2022.3199107. 
-[6] F. Liu, C. Gao, F. Chen, D. Meng, W. Zuo and X. Gao, "Infrared Small and Dim Target Detection With Transformer Under Complex Backgrounds," in IEEE Transactions on Image Processing, vol. 32, pp. 5921-5932, 2023, doi: 10.1109/TIP.2023.3326396.
-[7] Tong, X.; Sun, B.; Wei, J.; Zuo, Z.; Su, S. EAAU-Net: Enhanced Asymmetric Attention U-Net for Infrared Small Target Detection. Remote Sens. 2021, 13, 3200. https://doi.org/10.3390/rs13163200
+[1] H. Wang, L. Zhou and L. Wang, "Miss Detection vs. False Alarm: Adversarial Learning for Small Object Segmentation in Infrared Images," 2019 IEEE/CVF International Conference on Computer Vision (ICCV), Seoul, Korea (South), 2019, pp. 8508-8517, doi: 10.1109/ICCV.2019.00860.  
+[2] Y. Dai, Y. Wu, F. Zhou and K. Barnard, "Asymmetric Contextual Modulation for Infrared Small Target Detection," 2021 IEEE Winter Conference on Applications of Computer Vision (WACV), Waikoloa, HI, USA, 2021, pp. 949-958, doi: 10.1109/WACV48630.2021.00099.   
+[3] Zhao, Mingxin et al. “TBC-Net: A real-time detector for infrared small target detection using semantic constraint.” ArXiv abs/2001.05852 (2019): n. pag.   
+[4] Y. Dai, Y. Wu, F. Zhou and K. Barnard, "Attentional Local Contrast Networks for Infrared Small Target Detection," in IEEE Transactions on Geoscience and Remote Sensing, vol. 59, no. 11, pp. 9813-9824, Nov. 2021, doi: 10.1109/TGRS.2020.3044958.   
+[5] B. Li et al., "Dense Nested Attention Network for Infrared Small Target Detection," in IEEE Transactions on Image Processing, vol. 32, pp. 1745-1758, 2023, doi: 10.1109/TIP.2022.3199107.    
+[6] F. Liu, C. Gao, F. Chen, D. Meng, W. Zuo and X. Gao, "Infrared Small and Dim Target Detection With Transformer Under Complex Backgrounds," in IEEE Transactions on Image Processing, vol. 32, pp. 5921-5932, 2023, doi: 10.1109/TIP.2023.3326396.  
+[7] Tong, X.; Sun, B.; Wei, J.; Zuo, Z.; Su, S. EAAU-Net: Enhanced Asymmetric Attention U-Net for Infrared Small Target Detection. Remote Sens. 2021, 13, 3200. https://doi.org/10.3390/rs13163200.   
 
 
 
