@@ -81,7 +81,7 @@
 [4] Y. Dai, Y. Wu, F. Zhou and K. Barnard, "Attentional Local Contrast Networks for Infrared Small Target Detection," in IEEE Transactions on Geoscience and Remote Sensing, vol. 59, no. 11, pp. 9813-9824, Nov. 2021, doi: 10.1109/TGRS.2020.3044958.   
 [5] B. Li et al., "Dense Nested Attention Network for Infrared Small Target Detection," in IEEE Transactions on Image Processing, vol. 32, pp. 1745-1758, 2023, doi: 10.1109/TIP.2022.3199107.    
 [6] F. Liu, C. Gao, F. Chen, D. Meng, W. Zuo and X. Gao, "Infrared Small and Dim Target Detection With Transformer Under Complex Backgrounds," in IEEE Transactions on Image Processing, vol. 32, pp. 5921-5932, 2023, doi: 10.1109/TIP.2023.3326396.  
-[7] Tong, X.; Sun, B.; Wei, J.; Zuo, Z.; Su, S. EAAU-Net: Enhanced Asymmetric Attention U-Net for Infrared Small Target Detection. Remote Sens. 2021, 13, 3200. https://doi.org/10.3390/rs13163200.   
+[7] Tong, X.; Sun, B.; Wei, J.; Zuo, Z.; Su, S. EAAU-Net: Enhanced Asymmetric Attention U-Net for Infrared Small Target Detection. Remote Sens. 2021, 13, 3200.      
 
 
 
