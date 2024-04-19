@@ -83,6 +83,10 @@
 [6] F. Liu, C. Gao, F. Chen, D. Meng, W. Zuo and X. Gao, "Infrared Small and Dim Target Detection With Transformer Under Complex Backgrounds," in IEEE Transactions on Image Processing, vol. 32, pp. 5921-5932, 2023, doi: 10.1109/TIP.2023.3326396.  
 [7] Tong, X.; Sun, B.; Wei, J.; Zuo, Z.; Su, S. EAAU-Net: Enhanced Asymmetric Attention U-Net for Infrared Small Target Detection. Remote Sens. 2021, 13, 3200.      
 [8] Chen G, Wang W, Tan S. IRSTFormer: A Hierarchical Vision Transformer for Infrared Small Target Detection. Remote Sensing. 2022; 14(14):3258.  [9] Lv, G.; Dong, L.; Liang, J.; Xu, W. Novel Asymmetric Pyramid Aggregation Network for Infrared Dim and Small Target Detection. Remote Sens. 2022, 14, 5643.    
+[9] A. Wang, W. Li, Z. Huang, X. Wu, F. Jie and R. Tao, "Prior-Guided Data Augmentation for Infrared Small Target Detection," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 15, pp. 10027-10040, 2022, doi: 10.1109/JSTARS.2022.3222758.   
+[10] K. Wang, S. Du, C. Liu and Z. Cao, "Interior Attention-Aware Network for Infrared Small Target Detection," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-13, 2022, Art no. 5002013, doi: 10.1109/TGRS.2022.3163410.    
+[11] M. Zhang, R. Zhang, Y. Yang, H. Bai, J. Zhang and J. Guo, "ISNet: Shape Matters for Infrared Small Target Detection," 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), New Orleans, LA, USA, 2022, pp. 867-876, doi: 10.1109/CVPR52688.2022.00095.  
+[12] Wu X, Hong D, Chanussot J. UIU-Net: U-Net in U-Net for Infrared Small Object Detection. IEEE Trans Image Process. 2022 Dec 15;PP. doi: 10.1109/TIP.2022.3228497. Epub ahead of print. PMID: 37015404.  
 
 
 
